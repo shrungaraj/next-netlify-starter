@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <p>
+          <a href="/training">Go to Training Module</a>
+        </p>
       </main>
 
       <Footer />
